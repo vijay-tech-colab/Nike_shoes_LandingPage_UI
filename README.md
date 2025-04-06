@@ -1,12 +1,24 @@
-# React + Vite
+# Nike Shoes Landing Page 👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page for Nike shoes, built using React.js and Tailwind CSS. This project is a part of my front-end development practice to improve UI/UX skills.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design for all devices 📱
+- Clean and minimalistic UI 🎨
+- React components architecture ⚛️
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** – Front-end JavaScript library
+- **CSS** – Custom CSS
+- **Vite**  – For fast development
+- **React Icons** – For using iconography
+
+## 🔧 Installation
+
+```bash
+https://github.com/vijay-tech-colab/Nike_shoes_LandingPage_UI.git
+cd Nike_shoes_LandingPage_UI
+npm install
+npm run dev
